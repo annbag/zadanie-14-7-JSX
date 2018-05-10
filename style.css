@@ -1,0 +1,46 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+button {
+  padding: 12px;
+  margin-left: 10px;
+  color: #ffffff;
+  background-color: #4db8ff;
+  border-style: none;  
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #99d6ff;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: solid 2px #005c99;
+}
+.contactForm {
+  margin: 20px;
+}
+.contactItem {
+  margin: 25px auto;
+  width: 500px;
+  background-color: #99d6ff;
+  padding: 20px 0;
+}
+.contactImage {
+  height: 150px;
+  width: 150px;
+}
+.contactLabel {
+  color: #005c99;
+}
+.app {
+  width: 100%;
+  margin-top: 25px;
+  text-align: center;
+}
+.contactsList {
+  padding: 0;
+}
