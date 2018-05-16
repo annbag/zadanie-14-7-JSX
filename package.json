@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-14-7-jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annbag/zadanie-14-7-JSX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annbag/zadanie-14-7-JSX/issues"
+  },
+  "homepage": "https://github.com/annbag/zadanie-14-7-JSX#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
